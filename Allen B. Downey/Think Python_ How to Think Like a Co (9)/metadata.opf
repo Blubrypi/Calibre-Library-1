@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06511962-1e03-4eb2-bbbf-fba418268665</dc:identifier>
+        <dc:title>Think Python: How to Think Like a Computer Scientist</dc:title>
+        <dc:creator opf:file-as="Downey, Allen B." opf:role="aut">Allen B. Downey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.38.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-02T06:00:00+00:00</dc:date>
+        <dc:description>If you want to learn how to program, working with Python is an excellent way to start. This hands-on guide takes you through the language one step at a time, beginning with basic programming concepts before moving on to functions, recursion, data structures, and object-oriented design. This second edition and its supporting code have been updated for Python 3.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B018UXJ9EQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Allen B. Downey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-10T18:47:00.716000+00:00" name="calibre:timestamp"/>
+        <meta content="Think Python: How to Think Like a Computer Scientist" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
