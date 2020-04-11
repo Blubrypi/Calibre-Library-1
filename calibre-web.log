@@ -1,0 +1,10 @@
+[2020-04-11 22:54:35,998]  INFO {cps:89} Starting Calibre Web...
+[2020-04-11 22:54:35,999]  WARN {cps.config_sql:265} invalidating configuration
+[2020-04-11 22:54:36,130]  INFO {cps.server:140} Starting Gevent server on [::]:8083
+[2020-04-11 23:03:07,013]  INFO {cps.server:196} webserver stop (restart=False)
+[2020-04-11 23:03:07,014]  INFO {cps.server:179} Performing shutdown of Calibre-Web
+[2020-04-11 23:04:01,045]  INFO {cps:89} Starting Calibre Web...
+[2020-04-11 23:04:01,045]  WARN {cps.config_sql:265} invalidating configuration
+[2020-04-11 23:04:01,178]  INFO {cps.server:140} Starting Gevent server on [::]:8083
+[2020-04-11 23:06:12,683]  WARN {cps.config_sql:265} invalidating configuration
+[2020-04-11 23:07:28,827]  INFO {cps.web:1184} Login failed for user "admin" IP-adress: ::ffff:172.17.0.1
