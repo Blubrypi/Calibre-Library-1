@@ -8,3 +8,19 @@
 [2020-04-11 23:04:01,178]  INFO {cps.server:140} Starting Gevent server on [::]:8083
 [2020-04-11 23:06:12,683]  WARN {cps.config_sql:265} invalidating configuration
 [2020-04-11 23:07:28,827]  INFO {cps.web:1184} Login failed for user "admin" IP-adress: ::ffff:172.17.0.1
+[2020-04-11 23:16:58,843]  INFO {cps.admin:700} Update status requested
+[2020-04-11 23:27:08,038]  INFO {cps.admin:700} Update status requested
+[2020-04-11 23:27:35,350]  INFO {cps.server:196} webserver stop (restart=True)
+[2020-04-11 23:28:34,886]  INFO {cps.server:184} Performing restart of Calibre-Web
+[2020-04-11 23:28:36,639]  INFO {cps:89} Starting Calibre Web...
+[2020-04-11 23:28:36,787]  INFO {cps.server:140} Starting Gevent server on [::]:8083
+[2020-04-11 23:28:40,012]  INFO {cps.server:200} webserver stop (restart=False)
+[2020-04-11 23:28:40,013]  INFO {cps.server:180} Performing shutdown of Calibre-Web
+[2020-04-11 23:28:50,571]  INFO {cps:89} Starting Calibre Web...
+[2020-04-11 23:28:50,715]  INFO {cps.server:140} Starting Gevent server on [::]:8083
+[2020-04-11 23:29:05,213]  INFO {cps.web:1033} Serving book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron
+[2020-04-12 00:21:08,926]  WARN {cps.uploader:159} Pdf extraction forbidden by Imagemagick policy: not authorized `/tmp/calibre_web/5e6f2bf9b933e4d7232ba43b50b4ee95' @ error/constitute.c/ReadImage/412
+[2020-04-12 00:29:51,594]  INFO {cps.web:1033} Serving book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron
+[2020-04-12 00:30:18,309] ERROR {cps.helper:574} File not found: /books/Aurelien Geron/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (59)/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron.pdf
+[2020-04-12 00:43:34,581] ERROR {cps.helper:288} Deleting book 59 failed, book path not valid: Aurelien Geron/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (59)
+[2020-04-12 01:12:06,132]  INFO {cps.web:1033} Serving book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron
